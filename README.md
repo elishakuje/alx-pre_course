@@ -1,2 +1,1 @@
-My first readme
-up to date
+This is amazingly awesome!
