@@ -1,2 +1,2 @@
 My first readme
-Undated from the repo
+Updated from the repo
